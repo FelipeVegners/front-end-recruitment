@@ -5,13 +5,15 @@
       "sku": 8552515751438644,
       "title": "Camisa Nike Corinthians I",
       "description": "14/15 s/nº",
-      "availableSizes": ["S", "G", "GG", "GGG"],
+      "availableSizes": ["P", "G", "GG", "GGG"],
       "style": "Branco com listras pretas",
       "price": 229.9,
       "installments": 9,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-1.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-1.jpg"
     },
 
     {
@@ -19,13 +21,15 @@
       "sku": 18644119330491312,
       "title": "Camisa Nike Corinthians II",
       "description": "14/15 s/nº",
-      "availableSizes": ["S", "G", "GG", "GGG"],
+      "availableSizes": ["P", "G", "GG", "GGG"],
       "style": "Preta com listras brancas",
       "price": 229.9,
       "installments": 9,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-2.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-2.jpg"
     },
 
     {
@@ -33,13 +37,15 @@
       "sku": 11854078013954528,
       "title": "Camisa Feminina Nike Corinthians I",
       "description": "14/15 s/nº",
-      "availableSizes": ["S", "G"],
+      "availableSizes": ["P", "G"],
       "style": "Branco com listras pretas",
       "price": 199.9,
       "installments": 7,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-3.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-3.jpg"
     },
 
     {
@@ -47,13 +53,15 @@
       "sku": 876661122392077,
       "title": "Camisa Feminina Nike Corinthians II",
       "description": "2014 s/nº",
-      "availableSizes": ["S", "G"],
+      "availableSizes": ["P", "G"],
       "style": "Preto com listras brancas",
       "price": 199.9,
       "installments": 7,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-4.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-4.jpg"
     },
 
     {
@@ -67,7 +75,9 @@
       "installments": 12,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": false
+      "isFreeShipping": false,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-5.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-5.jpg"
     },
 
     {
@@ -75,13 +85,15 @@
       "sku": 10547961582846888,
       "title": "Kit Corinthians - Camisa Nike II",
       "description": "14/15 + Camiseta 1º Mundial",
-      "availableSizes": ["S", "G", "GG"],
+      "availableSizes": ["P", "G", "GG"],
       "style": "Preto",
       "price": 229.9,
       "installments": 9,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": false
+      "isFreeShipping": false,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-6.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-6.jpg"
     },
 
     {
@@ -95,7 +107,9 @@
       "installments": 0,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-7.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-7.jpg"
     },
 
     {
@@ -103,13 +117,15 @@
       "sku": 18532669286405342,
       "title": "Camisa Corinthians Réplica",
       "description": "1977 Infantil",
-      "availableSizes": ["S"],
+      "availableSizes": ["P"],
       "style": "Preto com listras brancas",
       "price": 109.9,
       "installments": 4,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-8.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-8.jpg"
     },
 
     {
@@ -123,7 +139,9 @@
       "installments": 4,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": false
+      "isFreeShipping": false,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-1.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-1.jpg"
     },
 
     {
@@ -137,7 +155,9 @@
       "installments": 5,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-2.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-2.jpg"
     },
 
     {
@@ -151,7 +171,9 @@
       "installments": 9,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-3.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-3.jpg"
     },
 
     {
@@ -159,13 +181,15 @@
       "sku": 39876704341265606,
       "title": "Jaqueta Corinthians Elite",
       "description": "",
-      "availableSizes": ["S", "G"],
+      "availableSizes": ["P", "G"],
       "style": "Preto",
       "price": 99.9,
       "installments": 3,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-4.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-4.jpg"
     },
 
     {
@@ -179,7 +203,9 @@
       "installments": 9,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-5.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-5.jpg"
     },
 
     {
@@ -193,7 +219,9 @@
       "installments": 5,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-6.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-6.jpg"
     },
 
     {
@@ -201,13 +229,15 @@
       "sku": 10686354557628303,
       "title": "Camisa Nike Academy",
       "description": "GPX Poly 1",
-      "availableSizes": ["S", "G", "GG"],
+      "availableSizes": ["P", "G", "GG"],
       "style": "Vermelho com detalhe em preto",
       "price": 99.9,
       "installments": 3,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-7.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-7.jpg"
     },
 
     {
@@ -215,13 +245,15 @@
       "sku": 11033926921508487,
       "title": "Camisa Nike Corinthians",
       "description": "Treino 2014",
-      "availableSizes": ["S", "G", "GG", "GGG"],
+      "availableSizes": ["P", "G", "GG", "GGG"],
       "style": "Branco com detalhe em azul",
       "price": 149.9,
       "installments": 5,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-8.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-8.jpg"
     },
 
     {
@@ -229,13 +261,15 @@
       "sku": 10412368723880253,
       "title": "Camisa Polo Corinthians Ouro",
       "description": "",
-      "availableSizes": ["S", "G", "GG"],
+      "availableSizes": ["P", "G", "GG"],
       "style": "Preto com detalhe em dourado",
       "price": 129.9,
       "installments": 5,
       "currencyId": "BRL",
       "currencyFormat": "R$",
-      "isFreeShipping": true
+      "isFreeShipping": true,
+      "imgUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_pic-1.jpg",
+      "thumbUrl": "https://s3.amazonaws.com/vgntests/cart-test/item_thumb-1.jpg"
     }
   ]
 }

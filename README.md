@@ -1,23 +1,43 @@
 # Netshoes Cart Test
 
-## Expected result
+Projeto de um carrinho de compras criado em ReactJS que segue os requisitos propostos:
 
-* See a list of products;
-* Be able to add or remove items to the cart and get instant visual feedback;
-* See the products added to the cart.
+* Exibir uma lista de produtos;
+* Adicionar ou remover produtos à sacola e obter um feedback visual instantâneo;
+* Acessar produtos adicionados à sacola;
+* Persistir os dados em page reload.
 
-## Data
 
-The data we provide is a static JSON file under `/public/data`.
+## Rodando o Projeto
 
-## Notes
+Instalando o projeto:
+`yarn install`
 
-* You can use whatever stack or tooling you want to help you;
-* Feel free to ask us questions during the process (but trust your guts, please!);
-* You should create a static server in order to access the JSON data provided.
+Para rodar em produção:
+`yarn start`
 
-## Bonus
+Acesso no browser:
+`http://localhost:3000`
 
-* Persist data on page reload;
-* Test your code;
-* Instructions on how to build/run the project.
+Build da aplicação:
+`yarn build`
+
+Servindo o Build localmente:
+`yard global add serve` e depois `serve -s build`
+
+Acesso do build no browser:
+`http://localhost:5000`
+
+O JSON é provido tanto pelo server em prod quando no server do build.
+
+## Utilizado no Projeto
+
+* ReactJS (create-react-app)
+* Axios
+* Styled Components
+* Bootstrap
+*Ionicons
+
+
+
+
