@@ -42,7 +42,7 @@ O JSON é provido tanto pelo server em prod quando no server do build.
 * Axios
 * Styled Components
 * Bootstrap
-*Ionicons
+* Ionicons
 
 
 
