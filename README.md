@@ -11,21 +11,27 @@ Projeto de um carrinho de compras criado em ReactJS que segue os requisitos prop
 ## Rodando o Projeto
 
 Instalando o projeto:
+
 `yarn install`
 
 Para rodar em produção:
+
 `yarn start`
 
 Acesso no browser:
+
 `http://localhost:3000`
 
 Build da aplicação:
+
 `yarn build`
 
 Servindo o Build localmente:
+
 `yard global add serve` e depois `serve -s build`
 
 Acesso do build no browser:
+
 `http://localhost:5000`
 
 O JSON é provido tanto pelo server em prod quando no server do build.
