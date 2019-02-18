@@ -1,5 +1,7 @@
 import React, { Component } from 'react';
 
+import SizeSelector from './SizeSelector';
+
 import { 
   Item, 
   Title,
@@ -36,6 +38,9 @@ export default class Product extends Component {
         <Item>
           <img src={ product.imgUrl } alt="{ product.title }" />
           <Title fontSize={14}>{ product.title } { product.description }</Title>
+
+            <SizeSelector product={ product }/>
+
           <Divisor>___</Divisor>
           <p className="mb-0">
             <Currency>{ product.currencyFormat }</Currency> <ItemPrice>{ priceFormated }</ItemPrice>
